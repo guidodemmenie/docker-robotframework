@@ -1,4 +1,4 @@
-# Demo API for Robotframework RestInstance demo test-execution container
+# Robotframework with RestInstance test-execution container
 
 ----
 Just some quick commands so that you know how to use it.
